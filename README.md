@@ -4,7 +4,7 @@ This project classifies uploaded images and videos as `FAKE` or `REAL`.
 
 ## Links
 
-- GitHub Repository: `https://github.com/kritika038/Real-Fake-image-and-video-detection`
+- GitHub Repository: `https://github.com/Khushiraghav12/Real-Fake-Image-Video-Detection`
 - Live App: `https://real-fake-image-and-video-detection-e7pum2tuwtmhjhsk3yfpwe.streamlit.app/`
 
 ## What this repo contains
